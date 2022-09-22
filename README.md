@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 
 I’m a student at Tecnologico de Monterrey pursuing a major in Robotics and Digital Systems Engineering. I consider myself as a proactive person eager to learn and with positive attitude, currently interested in internship opportunities that will allow me to gain first-hand work experience in real world. 
 
@@ -6,7 +6,7 @@ I’m a student at Tecnologico de Monterrey pursuing a major in Robotics and Dig
 I am currently learning Python programming in a deeper level to achieve proficiency.
 
 ## 📫 How to reach me: 
-* naomiestefaniav@gmail.com 
+* Send me an email: naomiestefaniav@gmail.com 
 * Connect with me on LinkedIn: https://www.linkedin.com/in/naominietov/
 
 ## - 😄 Pronouns: 
