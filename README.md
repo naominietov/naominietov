@@ -8,11 +8,8 @@ I am currently learning Python programming in a deeper level to achieve proficie
 * Send me an email: naomiestefaniav@gmail.com 
 * Connect with me on LinkedIn: https://www.linkedin.com/in/naominietov/
 
-### 😄 Pronouns:
-* she/her
-
-### ⚡ Fun fact:
-* I like pizza.
+### 😄 Pronouns: she/her
+### ⚡ Fun fact: I like pizza.
 
 <!--
 **naominietov/naominietov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
