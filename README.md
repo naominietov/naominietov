@@ -1,8 +1,8 @@
 ### Hi there 👋 
-My name is Naomi Nieto. I’m a student at Tecnologico de Monterrey pursuing a major in Robotics and Digital Systems Engineering. I consider myself as a proactive person eager to learn and with positive attitude, currently interested in internship opportunities that will allow me to gain first-hand work experience in real world. 
+My name is Naomi Nieto. I’m a recent graduate from Tecnologico de Monterrey with a major in Robotics and Digital Systems Engineering. I consider myself as a proactive person eager to learn and with positive attitude, currently interested in internship opportunities that will allow me to gain first-hand work experience in real world. 
 
 ### 🌱 I’m currently learning ...
-I am currently learning Python programming in a deeper level to achieve proficiency.
+I am currently learning Python programming in a deeper level to achieve proficiency (competitive-programming).
 
 ### 📫 How to reach me ...
 * Send me an email: naomiestefaniav@gmail.com 
